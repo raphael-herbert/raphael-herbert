@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @raphael-herbert
+- 👀 I’m interested in Angular & C# .NET development 
+- 🌱 I’m currently learning DDD & MediatR
+- 📫 How to reach me : raphael.herbert@outlook.fr
